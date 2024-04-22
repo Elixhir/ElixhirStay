@@ -1,0 +1,1 @@
+"ElixhirStay" is an accommodation management platform designed to streamline hotel administration and provide an exceptional experience for both guests and owners. Initially conceived as a university project, ElixhirStay has been enhanced to incorporate additional features and more complex concepts.
